@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root{
+    --color1:#0466c8;
+    --color2:#ffd500;
+}
+
+html, body{
+    margin:0;
+    padding:0;
+    color:white;
+    font-family: 'Cabin', sans-serif;
+    background-color: var(--color1);
+}
+h1,h2{
+    margin: 0;
+}
